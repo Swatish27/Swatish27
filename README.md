@@ -1,4 +1,4 @@
-# Hello, I'm <Swati Shahare>
+# Hello, I'm Swati
 Welcome to my GitHub profile....
 
 
